@@ -1,3 +1,5 @@
+package cms.user;
+
 public abstract class User {
 	private final int id;
 	private final String nome;
